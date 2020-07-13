@@ -1,0 +1,14 @@
+h1, h2 {
+    margin-top: 5px;
+    text-align: center;
+}
+
+.d-flex {
+    background-color: pink;
+    opacity: 0.5
+}
+.nav-link {
+    color: black;
+    font-size: 20px;
+    weight: 700;
+}
